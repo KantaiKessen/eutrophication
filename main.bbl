@@ -1,0 +1,144 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 2.9 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{nty/global//global/global}
+    \entry{wikipedia}{online}{}
+      \field{sortinit}{E}
+      \field{sortinithash}{f615fb9c6fba11c6f962fb3fd599810e}
+      \field{labeltitlesource}{title}
+      \field{title}{Eutrophication}
+      \field{year}{2018}
+      \verb{urlraw}
+      \verb https://en.wikipedia.org/wiki/Eutrophication
+      \endverb
+      \verb{url}
+      \verb https://en.wikipedia.org/wiki/Eutrophication
+      \endverb
+    \endentry
+    \entry{bio}{book}{}
+      \name{author}{6}{}{%
+        {{hash=53974d24d415ceb532e8414675a98dfc}{%
+           family={Reece},
+           familyi={R\bibinitperiod},
+           given={J.\bibnamedelimi B.},
+           giveni={J\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+        {{hash=d4123cb52d2c8b38830466a1665bed74}{%
+           family={Urry},
+           familyi={U\bibinitperiod},
+           given={L.\bibnamedelimi A.},
+           giveni={L\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=ce33a4ac01bb4297609a419c6834ee73}{%
+           family={Cain},
+           familyi={C\bibinitperiod},
+           given={M.\bibnamedelimi L.},
+           giveni={M\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=fd243ac8f5c00fed24deedf3abace9d1}{%
+           family={Wasserman},
+           familyi={W\bibinitperiod},
+           given={S.\bibnamedelimi A.},
+           giveni={S\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+        {{hash=d61b9cd2ace191e7d5b3dc69038e263c}{%
+           family={Minorsky},
+           familyi={M\bibinitperiod},
+           given={P.\bibnamedelimi V.},
+           giveni={P\bibinitperiod\bibinitdelim V\bibinitperiod}}}%
+        {{hash=1686ab8defadcecc2f7528cae4e85f73}{%
+           family={Jackson},
+           familyi={J\bibinitperiod},
+           given={R.\bibnamedelimi B.},
+           giveni={R\bibinitperiod\bibinitdelim B\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {San Francisco}%
+      }
+      \list{publisher}{1}{%
+        {Pearson Benjamin Cummings}%
+      }
+      \strng{namehash}{ff4a8b5af465ccecfc5eaea6267c7cfb}
+      \strng{fullhash}{d8159352e55094bcf6ae64e4b19c1175}
+      \strng{bibnamehash}{ff4a8b5af465ccecfc5eaea6267c7cfb}
+      \strng{authorbibnamehash}{ff4a8b5af465ccecfc5eaea6267c7cfb}
+      \strng{authornamehash}{ff4a8b5af465ccecfc5eaea6267c7cfb}
+      \strng{authorfullhash}{d8159352e55094bcf6ae64e4b19c1175}
+      \field{sortinit}{R}
+      \field{sortinithash}{da6b42bd3ab22fee61abed031ee405f7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{chapter}{52}
+      \field{edition}{9}
+      \field{isbn}{9780321558237}
+      \field{pubstate}{CA}
+      \field{title}{Campbell Biology}
+      \field{year}{2011}
+      \field{pages}{1224}
+      \range{pages}{1}
+    \endentry
+    \entry{china}{article}{}
+      \name{author}{4}{}{%
+        {{hash=0b02cc917917e2654db3123ad1a7dc01}{%
+           family={Yang},
+           familyi={Y\bibinitperiod},
+           given={Xiao-e},
+           giveni={X\bibinithyphendelim e\bibinitperiod}}}%
+        {{hash=d10544341ce8ddd630dfb919f63ca296}{%
+           family={Wu},
+           familyi={W\bibinitperiod},
+           given={Xiang},
+           giveni={X\bibinitperiod}}}%
+        {{hash=538b7bf7d88ee719cf58dae32350a32b}{%
+           family={Hao},
+           familyi={H\bibinitperiod},
+           given={Hu-lin},
+           giveni={H\bibinithyphendelim l\bibinitperiod}}}%
+        {{hash=4b357e9a73b64da8a9f19e5313f7133d}{%
+           family={He},
+           familyi={H\bibinitperiod},
+           given={Zhen-li},
+           giveni={Z\bibinithyphendelim l\bibinitperiod}}}%
+      }
+      \strng{namehash}{39b35294058f60115a7a9f9d1946e868}
+      \strng{fullhash}{35775d4b7d2bb5197cea8e7b2767c346}
+      \strng{bibnamehash}{39b35294058f60115a7a9f9d1946e868}
+      \strng{authorbibnamehash}{39b35294058f60115a7a9f9d1946e868}
+      \strng{authornamehash}{39b35294058f60115a7a9f9d1946e868}
+      \strng{authorfullhash}{35775d4b7d2bb5197cea8e7b2767c346}
+      \field{sortinit}{Y}
+      \field{sortinithash}{b8d711a035f7be9840c721c82920477e}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Journal of Zhejiang University SCIENCE B}
+      \field{title}{Mechanisms and assessment of water eutrophication}
+      \field{year}{2008}
+      \field{pages}{197\bibrangedash 209}
+      \range{pages}{13}
+      \verb{doi}
+      \verb 10.1631/jzus.B0710626
+      \endverb
+      \verb{urlraw}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2266883/
+      \endverb
+      \verb{url}
+      \verb https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2266883/
+      \endverb
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

@@ -1,0 +1,17 @@
+\boolfalse {citerequest}\boolfalse {citetracker}\boolfalse {pagetracker}\boolfalse {backtracker}\relax 
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {1}Introduction}{1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {2}Cause}{1}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {2.1}Increased Cellular Respiration}{1}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{\numberline {3}Consequences}{2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.1}Decreased pH}{2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.2}Reduction of the population of organisms}{2}
+\defcounter {refsection}{0}\relax 
+\contentsline {subsection}{\numberline {3.3}Creation of Algal Blooms}{3}
+\defcounter {refsection}{0}\relax 
+\contentsline {section}{References}{4}
