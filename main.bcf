@@ -1977,6 +1977,7 @@
     <bcf:citekey order="1">wikipedia</bcf:citekey>
     <bcf:citekey order="2">bio</bcf:citekey>
     <bcf:citekey order="3">china</bcf:citekey>
+    <bcf:citekey order="3">china2</bcf:citekey>
   </bcf:section>
   <!-- SORTING TEMPLATES -->
   <bcf:sortingtemplate name="nty">

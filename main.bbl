@@ -90,6 +90,74 @@
       \field{pages}{1224}
       \range{pages}{1}
     \endentry
+    \entry{china2}{article}{}
+      \name{author}{8}{}{%
+        {{hash=944d21a090d2fc32d2cdd40c7a346126}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Li},
+           giveni={L\bibinitperiod}}}%
+        {{hash=0c22ed5ffb9b8574cfa385ab5e81ff8e}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Xiaoyi},
+           giveni={X\bibinitperiod}}}%
+        {{hash=c55625e7587bde064d8a17674fda196b}{%
+           family={Jin},
+           familyi={J\bibinitperiod},
+           given={Xuebo},
+           giveni={X\bibinitperiod}}}%
+        {{hash=41a9f377b4adeed53d45e08e857e136e}{%
+           family={Xu},
+           familyi={X\bibinitperiod},
+           given={Jiping},
+           giveni={J\bibinitperiod}}}%
+        {{hash=f231f5e14593d8e1bfc990032cae4ecc}{%
+           family={Zhang},
+           familyi={Z\bibinitperiod},
+           given={Huiyan},
+           giveni={H\bibinitperiod}}}%
+        {{hash=adbb64a27da0903a5048df5e750244e0}{%
+           family={Yu},
+           familyi={Y\bibinitperiod},
+           given={Jiabin},
+           giveni={J\bibinitperiod}}}%
+        {{hash=17e2bd25bb9e2a1bba8c979c6daf5c6e}{%
+           family={Gao},
+           familyi={G\bibinitperiod},
+           given={Chong},
+           giveni={C\bibinitperiod}}}%
+        {{hash=50d13cd90b8a378c76872f8ae398b224}{%
+           family={Wang},
+           familyi={W\bibinitperiod},
+           given={Lingbin},
+           giveni={L\bibinitperiod}}}%
+      }
+      \strng{namehash}{e3f3b9a24d52da2d0d4b1fe99638d06c}
+      \strng{fullhash}{86519b30d63b08429af8746e3ce4ec76}
+      \strng{bibnamehash}{e3f3b9a24d52da2d0d4b1fe99638d06c}
+      \strng{authorbibnamehash}{e3f3b9a24d52da2d0d4b1fe99638d06c}
+      \strng{authornamehash}{e3f3b9a24d52da2d0d4b1fe99638d06c}
+      \strng{authorfullhash}{86519b30d63b08429af8746e3ce4ec76}
+      \field{sortinit}{W}
+      \field{sortinithash}{ecb89ff85896a47dc313960773ac311d}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Saudi Journal of Biological Sciences}
+      \field{title}{Analysis of algae growth mechanism and waterbloom prediction under the effect of multi-affecting factor}
+      \field{year}{2017}
+      \field{pages}{556\bibrangedash 562}
+      \range{pages}{7}
+      \verb{doi}
+      \verb 10.1016/j.sjbs.2017.01.026
+      \endverb
+      \verb{urlraw}
+      \verb https://www.sciencedirect.com/science/article/pii/S1319562X17300359
+      \endverb
+      \verb{url}
+      \verb https://www.sciencedirect.com/science/article/pii/S1319562X17300359
+      \endverb
+    \endentry
     \entry{china}{article}{}
       \name{author}{4}{}{%
         {{hash=0b02cc917917e2654db3123ad1a7dc01}{%
